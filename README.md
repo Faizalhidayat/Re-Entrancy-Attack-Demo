@@ -7,7 +7,7 @@ This project is a demonstration of a re-entrancy attack on Ethereum smart contra
 To set up this project, you need to install the dependencies using npm:
 
 ```bash
-npm init --yes
+npm init --y
 npm install --save-dev hardhat @nomicfoundation/hardhat-toolbox
 npx hardhat
 ```
